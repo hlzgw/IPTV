@@ -685,13 +685,13 @@ http://tvbox.netsite.cc/proxy/1260824748/1260824748.m3u8
 rtmp://visit.jjbctv.com:1935/live/xwzhpc
 
 #港澳台/11个频道
-#EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
+#EXTINF:-1 tvg-id="xg01" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
 https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 #EXTINF:-1 tvg-id="xg02" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" tvg-name="TVB明珠台"  group-title="港澳台",TVB明珠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
-#EXTINF:-1 tvg-id="xg03" tvg-logo="https://upload.112114.xyz/logo/TVB4.png" tvg-name="TVB无线新闻"  group-title="港澳台",TVB无线新闻
+#EXTINF:-1 tvg-id="xg03" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="TVB无线新闻"  group-title="港澳台",TVB无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 tvg-id="xg04" tvg-logo="https://upload.112114.xyz/logo/TVB5.png" tvg-name="TVB无线财经"  group-title="港澳台",TVB无线财经
+#EXTINF:-1 tvg-id="xg04" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png" tvg-name="TVB无线财经"  group-title="港澳台",TVB无线财经
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" tvg-name="澳门澳视"  group-title="港澳台",澳门澳视"
 https://iptv.hiper25.com/TDM/video.m3u8
@@ -707,3 +707,5 @@ http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
 #EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png"  group-title="港澳台",台视新闻"
 http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
+#EXTINF:-1 tvg-id="xg12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" tvg-name="TVB星河"  group-title="港澳台",TVB星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
