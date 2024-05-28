@@ -783,3 +783,73 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="cus22" tvg-logo="" tvg-name="环球电视台"  group-title="自定义",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+#MYPD
+#EXTINF:-1 tvg-id="MYPD01" tvg-logo="" tvg-name="日本1"  group-title="MYPD",日本1
+http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
+#EXTINF:-1 tvg-id="MYPD02" tvg-logo="" tvg-name="Brazzers1"  group-title="MYPD",Brazzers1
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 tvg-id="MYPD03" tvg-logo="" tvg-name="Brazzers2"  group-title="MYPD",Brazzers2
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD04" tvg-logo="" tvg-name="Desire"  group-title="MYPD",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD05" tvg-logo="" tvg-name="DORCEL TV"  group-title="MYPD",DORCEL TV
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD06" tvg-logo="" tvg-name="EROX"  group-title="MYPD",EROX
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD07" tvg-logo="" tvg-name="EROXXX"  group-title="MYPD",EROXXX
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD08" tvg-logo="" tvg-name="EXTASY"  group-title="MYPD",EXTASY
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD09" tvg-logo="" tvg-name="Hustler1"  group-title="MYPD",Hustler1
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1 tvg-id="MYPD10" tvg-logo="" tvg-name="Hustler2"  group-title="MYPD",Hustler2
+https://live.iptv888.net/hustlertv.m3u8
+#EXTINF:-1 tvg-id="MYPD11" tvg-logo="" tvg-name="Jenny For You"  group-title="MYPD",Jenny For You
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD12" tvg-logo="" tvg-name="Miami TV"  group-title="MYPD",Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD13" tvg-logo="" tvg-name="Penhouse"  group-title="MYPD",Penhouse
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 tvg-id="MYPD14" tvg-logo="" tvg-name="Penhouse Gold"  group-title="MYPD",Penhouse Gold
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-id="MYPD15" tvg-logo="" tvg-name="Penhouse Passion TV"  group-title="MYPD",Penhouse Passion TV
+https://live.iptvxxx.net/penthousepassiontv.m3u8
+#EXTINF:-1 tvg-id="MYPD16" tvg-logo="" tvg-name="Playboy1"  group-title="MYPD",Playboy1
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 tvg-id="MYPD17" tvg-logo="" tvg-name="Playboy2"  group-title="MYPD",Playboy2
+http://213.13.16.138/shls/LIVE%24Playboy_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-id="MYPD18" tvg-logo="" tvg-name="Playboy HD"  group-title="MYPD",Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD19" tvg-logo="" tvg-name="RedLight HD"  group-title="MYPD",RedLight HD
+http://51.159.102.100/RedlightHD/index.m3u8
+#EXTINF:-1 tvg-id="MYPD20" tvg-logo="" tvg-name="VISIT-X"  group-title="MYPD",VISIT-X
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MYPD21" tvg-logo="" tvg-name="惊艳台1"  group-title="MYPD",惊艳台1
+https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+#EXTINF:-1 tvg-id="MYPD22" tvg-logo="" tvg-name="潘多拉"  group-title="MYPD",潘多拉
+https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+#EXTINF:-1 tvg-id="MYPD23" tvg-logo="" tvg-name="香蕉台1"  group-title="MYPD",香蕉台1
+https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+#EXTINF:-1 tvg-id="MYPD24" tvg-logo="" tvg-name="松视1台1"  group-title="MYPD",松视1台1
+https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+#EXTINF:-1 tvg-id="MYPD25" tvg-logo="" tvg-name="松视2台1"  group-title="MYPD",松视2台1
+https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+#EXTINF:-1 tvg-id="MYPD26" tvg-logo="" tvg-name="松视1台2"  group-title="MYPD",松视1台2
+https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+#EXTINF:-1 tvg-id="MYPD27" tvg-logo="" tvg-name="松视2台2"  group-title="MYPD",松视2台2
+https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+#EXTINF:-1 tvg-id="MYPD28" tvg-logo="" tvg-name="松视3台"  group-title="MYPD",松视3台
+https://z88.ubtvfans.com:443/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+#EXTINF:-1 tvg-id="MYPD29" tvg-logo="" tvg-name="香蕉台2"  group-title="MYPD",香蕉台2
+http://z88.ubtvfans.com:443/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
+#EXTINF:-1 tvg-id="MYPD30" tvg-logo="" tvg-name="惊艳台2"  group-title="MYPD",惊艳台2
+http://z88.ubtvfans.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
+#EXTINF:-1 tvg-id="MYPD31" tvg-logo="" tvg-name="彩虹电影"  group-title="MYPD",彩虹电影
+http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+#EXTINF:-1 tvg-id="MYPD32" tvg-logo="" tvg-name="轮播电影1"  group-title="MYPD",轮播电影1
+http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+#EXTINF:-1 tvg-id="MYPD33" tvg-logo="" tvg-name="轮播电影2"  group-title="MYPD",轮播电影2
+http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+#EXTINF:-1 tvg-id="MYPD34" tvg-logo="" tvg-name="轮播电影3"  group-title="MYPD",轮播电影3
+https://z88.ubtvfans.com:443/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
