@@ -8,6 +8,19 @@ http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-id="SCPD4" tvg-name="中央台–珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="收藏频道",广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="收藏频道",TVB 翡翠台
+http://m.glx008.com:8000/bysid/1.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="收藏频道",TVB 明珠台
+http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+#EXTINF:-1 tvg-name="东森电影台" group-title="收藏频道",东森电影台
+http://171.108.239.76:8181/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-name="龙祥电影台" group-title="收藏频道",龙祥电影台
+http://171.108.239.76:8181/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="纬来电影台" group-title="收藏频道",纬来电影台
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视电影台" group-title="收藏频道",凤凰卫视电影台
+http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
+
 
 #总台高清/26个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="总台高清",CCTV-1 综合
@@ -796,7 +809,7 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 #EXTINF:-1 tvg-id="cus22" tvg-logo="" tvg-name="环球电视台"  group-title="自定义",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-#少儿频道
+#少儿
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="少儿",Cartoon Network 
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-name="Kids TV" group-title="少儿",Kids TV 
