@@ -182,6 +182,8 @@ http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m
 http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+#EXTINF:-1 tvg-id="dsjyt" tvg-name="东森电影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",东森电影台
+http://171.108.239.76:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="Qiusuo1" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="数字高清",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="Qiusuo2" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo2.png" group-title="数字高清",求索科学
@@ -696,7 +698,7 @@ rtmp://visit.jjbctv.com:1935/live/xwzhpc
 
 #港澳台/21个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-name="翡翠台"  group-title="港澳台",TVB翡翠台
-https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 #EXTINF:-1 tvg-id="xg02" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" tvg-name="明珠台"  group-title="港澳台",TVB明珠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 #EXTINF:-1 tvg-id="xg03" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="无线新闻"  group-title="港澳台",TVB无线新闻
@@ -715,16 +717,26 @@ https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="xg21" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" tvg-name="TVB功夫台"  group-title="港澳台",TVB功夫台
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="hkyxxwt" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable1.png" tvg-name="有线新闻台"  group-title="港澳台",有线新闻台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+#EXTINF:-1 tvg-id="rthk32" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" tvg-name="RTHK32"  group-title="港澳台",香港RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="xg14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK33.png" tvg-name="RTHK33"  group-title="港澳台",香港RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="xg15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK34.png" tvg-name="RTHK34"  group-title="港澳台",香港RTHK34
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV34/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="xg16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK35.png" tvg-name="RTHK35"  group-title="港澳台",香港RTHK35
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV35/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="fhwsdyt" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK35.png" tvg-name="凤凰卫视电影台"  group-title="港澳台",凤凰卫视电影台
+http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" tvg-name="澳视澳门"  group-title="港澳台",澳门澳视
 https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 tvg-id="xg13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Lotus.png" tvg-name="澳门莲花"  group-title="港澳台",澳门莲花
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="lxdyt" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Lotus.png" tvg-name="龙祥电影台"  group-title="港澳台",龙祥电影台
+http://171.108.239.76:8181/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="wldyt" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Lotus.png" tvg-name="纬来电影台"  group-title="港澳台",纬来电影台
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
 #EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" tvg-name="中天新闻台"  group-title="港澳台",中天新闻台
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="xg07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" tvg-name="华视"  group-title="港澳台",华视
@@ -783,3 +795,21 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="cus22" tvg-logo="" tvg-name="环球电视台"  group-title="自定义",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+#少儿频道
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="少儿",Cartoon Network 
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-name="Kids TV" group-title="少儿",Kids TV 
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mr. Bean" group-title="少儿",Mr. Bean 
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 tvg-name="NICKTOONS" group-title="少儿",NICKTOONS 
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-name="PBS Kids" group-title="少儿",PBS Kids 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿",卡酷少儿 
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿",金鹰卡通 
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" group-title="少儿",浙江少儿 
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
