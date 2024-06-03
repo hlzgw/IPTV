@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="hktvb1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-name="翡翠台"  group-title="港澳台",TVB翡翠台1
+http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+
+#EXTINF:-1 tvg-id="hktvb2" tvg-name="翡翠台" group-title="收藏频道",TVB翡翠台2
+http://m.glx008.com:8000/bysid/1.m3u8
