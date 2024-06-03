@@ -6,7 +6,7 @@ http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m
 http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
 #EXTINF:-1 tvg-id="SCPD3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="收藏频道",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-#EXTINF:-1 tvg-id="SCPD4" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="收藏频道",广东珠江
+#EXTINF:-1 tvg-id="SCPD4" tvg-name="中央台–珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="收藏频道",广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 
 #总台高清/26个频道
@@ -534,7 +534,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 #广东/14个频道
-#EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方特色",广东珠江
+#EXTINF:-1 tvg-id="GD01" tvg-name="中央台–珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方特色",广东珠江
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 #EXTINF:-1 tvg-id="GD02" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="地方特色",广东新闻
 http://183.54.208.197:9999/udp/239.77.0.173:5146
@@ -695,13 +695,13 @@ http://tvbox.netsite.cc/proxy/1260824748/1260824748.m3u8
 rtmp://visit.jjbctv.com:1935/live/xwzhpc
 
 #港澳台/21个频道
-#EXTINF:-1 tvg-id="xg01" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
+#EXTINF:-1 tvg-id="xg01" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-name="翡翠台"  group-title="港澳台",TVB翡翠台
 https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-#EXTINF:-1 tvg-id="xg02" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" tvg-name="TVB明珠台"  group-title="港澳台",TVB明珠台
+#EXTINF:-1 tvg-id="xg02" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" tvg-name="明珠台"  group-title="港澳台",TVB明珠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
-#EXTINF:-1 tvg-id="xg03" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="TVB无线新闻"  group-title="港澳台",TVB无线新闻
+#EXTINF:-1 tvg-id="xg03" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" tvg-name="无线新闻"  group-title="港澳台",TVB无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 tvg-id="xg04" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png" tvg-name="TVB无线财经"  group-title="港澳台",TVB无线财经
+#EXTINF:-1 tvg-id="xg04" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png" tvg-name="无线财经"  group-title="港澳台",TVB无线财经
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="xg12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" tvg-name="TVB星河"  group-title="港澳台",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -715,17 +715,17 @@ https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="xg21" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" tvg-name="TVB功夫台"  group-title="港澳台",TVB功夫台
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="xg14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK33.png" tvg-name="香港RTHK33"  group-title="港澳台",香港RTHK33
+#EXTINF:-1 tvg-id="xg14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK33.png" tvg-name="RTHK33"  group-title="港澳台",香港RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="xg15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK34.png" tvg-name="香港RTHK34"  group-title="港澳台",香港RTHK34
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="xg16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK35.png" tvg-name="香港RTHK35"  group-title="港澳台",香港RTHK35
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" tvg-name="澳门澳视"  group-title="港澳台",澳门澳视
+#EXTINF:-1 tvg-id="xg15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK34.png" tvg-name="RTHK34"  group-title="港澳台",香港RTHK34
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV34/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="xg16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK35.png" tvg-name="RTHK35"  group-title="港澳台",香港RTHK35
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV35/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" tvg-name="澳视澳门"  group-title="港澳台",澳门澳视
 https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 tvg-id="xg13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Lotus.png" tvg-name="澳门莲花"  group-title="港澳台",澳门莲花
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" tvg-name="中天新闻"  group-title="港澳台",中天新闻
+#EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" tvg-name="中天新闻台"  group-title="港澳台",中天新闻台
 http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 #EXTINF:-1 tvg-id="xg07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" tvg-name="华视"  group-title="港澳台",华视
 http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
@@ -733,9 +733,9 @@ http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
 http://66.165.240.154:8080/live/ztylt06/hls.m3u8
 #EXTINF:-1 tvg-id="xg09" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" tvg-name="TVBS"  group-title="港澳台",TVBS
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
-#EXTINF:-1 tvg-id="xg10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png"  group-title="港澳台",三立新闻
+#EXTINF:-1 tvg-id="xg10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" tvg-name="三立"  group-title="港澳台",三立新闻
 http://66.165.240.154:8080/live/slxw01/hls.m3u8
-#EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png"  group-title="港澳台",台视新闻
+#EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" tvg-name="台视" group-title="港澳台",台视新闻
 http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
 
 #自定义
@@ -783,5 +783,3 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="cus22" tvg-logo="" tvg-name="环球电视台"  group-title="自定义",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
-#MYPD
