@@ -1,6 +1,5 @@
 #EXTM3U
 
-#港澳台
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳台",翡翠台
 http://m.glx008.com:8000/bysid/1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳台",翡翠台
@@ -10,10 +9,10 @@ https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳台",翡翠台
 https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 
-#EXTINF:-1 tvg-name="明珠台"  group-title="港澳台",TVB明珠台
+#EXTINF:-1 tvg-name="明珠台" group-title="港澳台",TVB明珠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 
-#EXTINF:-1 tvg-name="澳门莲花"  group-title="港澳台",澳门莲花
+#EXTINF:-1 tvg-name="澳门莲花" group-title="港澳台",澳门莲花
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF:-1 tvg-name="东森电影台" group-title="港澳台",东森电影台
@@ -57,7 +56,6 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 tvg-name="中央台–珠江" group-title="广东台",广东珠江
 
-#少儿频道
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="少儿",Cartoon Network 
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
@@ -81,4 +79,3 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225561/index.m3u8
 
 #EXTINF:-1 tvg-name="浙江少儿" group-title="少儿",浙江少儿 
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-
