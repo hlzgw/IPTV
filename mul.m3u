@@ -1,54 +1,36 @@
-#EXTM3U
+港澳台,#genre#
+翡翠台,http://m.glx008.com:8000/bysid/1.m3u8
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+明珠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
+澳门莲花,https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+东森电影台,http://171.108.239.76:8181/tsfile/live/1010_1.m3u8
+东森电影台,https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
+东森电影台,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+东森电影台,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+龙祥电影台,http://171.108.239.76:8181/tsfile/live/1011_1.m3u8
+纬来电影台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
+星光电影台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+凤凰卫视电影台,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
+电影轮播,https://pull.kktv8.com/livekktv/128600025.flv
 
-#EXTINF:-1 tvg-name="翡翠台" group-title="港澳台",翡翠台
-http://m.glx008.com:8000/bysid/1.m3u8
-http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+My频道,#genre#
+CHC高清电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
+CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+华数测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-#EXTINF:-1 tvg-name="明珠台" group-title="港澳台",TVB明珠台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
+广东台,#genre#
+广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 
-#EXTINF:-1 tvg-name="澳门莲花" group-title="港澳台",澳门莲花
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-
-#EXTINF:-1 tvg-name="东森电影台" group-title="港澳台",东森电影台
-http://171.108.239.76:8181/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-name="东森电影台" group-title="港澳台",东森电影台
-https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
-#EXTINF:-1 tvg-name="东森电影台" group-title="港澳台",东森电影台
-https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
-#EXTINF:-1 tvg-name="东森电影台" group-title="港澳台",东森电影台
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-
-#EXTINF:-1 tvg-name="龙祥电影台" group-title="港澳台",龙祥电影台
-http://171.108.239.76:8181/tsfile/live/1011_1.m3u8
-
-#EXTINF:-1 tvg-name="纬来电影台" group-title="港澳台",纬来电影台
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
-
-#EXTINF:-1 tvg-name="星光电影台"  group-title="港澳台",星光电影台
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-
-#EXTINF:-1 tvg-name="凤凰卫视电影台" group-title="港澳台",凤凰卫视电影台
-http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
-
-#EXTINF:-1 tvg-name="电影轮播" group-title="港澳台",电影轮播
-https://pull.kktv8.com/livekktv/128600025.flv
-
-#EXTINF:-1 tvg-name="CHC高清电影" group-title="My频道",CHC高清电影
-http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
-
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="My频道",CHC家庭影院
-http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
-
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="My频道",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-
-#EXTINF:-1 tvg-name="华数测试"  group-title="My频道",华数测试
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-
-#EXTINF:-1 tvg-name="环球电视台"  group-title="My频道",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
-#EXTINF:-1 tvg-name="中央台–珠江" group-title="广东台",广东珠江
+少儿频道,#genre#
+Cartoon Network,https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+Mr. Bean,http://51.159.104.29:8080/mrbean/index.m3u8
+NICKTOONS,http://143.244.60.30/NICKTOONS/index.m3u8
+PBS Kids,https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+卡酷少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
+金鹰卡通,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225561/index.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
