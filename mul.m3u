@@ -52,27 +52,3 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 tvg-name="中央台–珠江" group-title="广东台",广东珠江
-
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="少儿",Cartoon Network 
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-
-#EXTINF:-1 tvg-name="Kids TV" group-title="少儿",Kids TV 
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mr. Bean" group-title="少儿",Mr. Bean 
-http://51.159.104.29:8080/mrbean/index.m3u8
-
-#EXTINF:-1 tvg-name="NICKTOONS" group-title="少儿",NICKTOONS 
-http://143.244.60.30/NICKTOONS/index.m3u8
-
-#EXTINF:-1 tvg-name="PBS Kids" group-title="少儿",PBS Kids 
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿",卡酷少儿 
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
-
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿",金鹰卡通 
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225561/index.m3u8
-
-#EXTINF:-1 tvg-name="浙江少儿" group-title="少儿",浙江少儿 
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
