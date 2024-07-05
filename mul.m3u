@@ -176,7 +176,12 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门莲花,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
 澳门莲花,http://lhq-cctv.8866.org:18181/tsfile/live/1212_1.m3u8
 东森电影台,http://171.108.239.79:8181/tsfile/live/1010_1.m3u8
-东森电影台,https://bsex.serv00.net/Smart.php?id=ettvmovie
+东森电影台,http://171.108.239.80:8181/tsfile/live/1010_1.m3u8
+东森电影台,http://171.108.239.76:8181/tsfile/live/1010_1.m3u8
+东森电影台,http://171.108.239.77:8181/tsfile/live/1010_1.m3u8
+东森电影台,http://171.108.239.73:8181/tsfile/live/1010_1.m3u8
+东森电影台,http://171.108.239.54:8181/tsfile/live/1010_1.m3u8
+东森电影台,http://171.108.239.72:8181/tsfile/live/1010_1.m3u8
 东森戏剧,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 凤凰卫视电影台,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
 凤凰卫视电影台,http://106.8.126.232:4022/rtp/239.254.201.1:5214
@@ -311,7 +316,7 @@ SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 SKY NEWS,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 神州新闻台,https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
 电影,#genre#
-1905电影网,http://ef4b21.netsite.cc/proxy/1747360543/1747360543.m3u8
+1905环球经典,http://ef4b21.netsite.cc/proxy/1747360543/1747360543.m3u8
 Action Hollywood Movies,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 Action Hollywood Movies,https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 Action Hollywood Movies,http://62.210.209.138:41000/movie/v52/v43/6759.mp4
@@ -326,6 +331,7 @@ American Classics 电影,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxam
 Asiancrush 亚洲电影,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 爱尔达影剧,https://z88.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+北京淘电影,http://114.246.102.14:4000/rtp/239.3.1.250:8001
 CINEMAX 电影,http://170.254.18.106/CINEMAX/index.m3u8
 CINEMAX 电影,https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cinemaxhd_qp.m3u8
 CineWestern 意大利,https://i.mjh.nz/SamsungTVPlus/ITBB20000072M.m3u8
@@ -348,27 +354,27 @@ HBO,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index
 HBO,https://z88.ubtvfans.com/live/rx4/2986/4add801e6fbd476b79dc6ed30c4723f3/index.m3u8
 HBO,http://190.171.101.36/HBO/tracks-v4a1/mono.m3u8
 HBO,http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-HBO 2,http://170.254.18.106/HBO2/index.m3u8
-HBO 2,http://66.165.240.154:8080/live/2mghbo02/hls.m3u8
-HBO 2,https://z88.ubtvfans.com/live/rx3/1111/e3d7e08d78ab650a8ac78da6bbdbcea9/index.m3u8
-HBO Asia,http://218.202.220.2:5000/nn_live.ts?id=HBO&checkedby:iptvcat.com
-HBO Family,http://170.254.18.106:80/HBO_FAMILY/index.m3u8
-HBO Family,https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
-HBO Family,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-HBO HD,https://edge1.laotv.la/live/HBO/index.m3u8
-HBO HD,https://s.vdo.ai/vhs/1.m3u8
-HBO Hits,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-HBO Hits,https://z88.ubtvfans.com/live/rx4/2991/273a7fe8625fa0c90e023c22b85b0121/index.m3u8
-HBO Hits,https://z88.ubtvfans.com/live/rx4/2976/10dcfde882f32a6b1410e15a816a03d5/index.m3u8
-HBO Hits,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-HBO Mundi,http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
-HBO Mundi,https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
-HBO Mundi,http://170.254.18.106/HBO_MUNDI/index.m3u8
-HBO PLUS,http://170.254.18.106/HBO_PLUS/index.m3u8
-HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
-HBO Signature,https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/hbosighd_qp.m3u8
-HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
-HBO Xtreme SD,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+HBO2,http://170.254.18.106/HBO2/index.m3u8
+HBO2,http://66.165.240.154:8080/live/2mghbo02/hls.m3u8
+HBO2,https://z88.ubtvfans.com/live/rx3/1111/e3d7e08d78ab650a8ac78da6bbdbcea9/index.m3u8
+HBOASIA,http://218.202.220.2:5000/nn_live.ts?id=HBO&checkedby:iptvcat.com
+HBOFAMILY,http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+HBOFAMILY,https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
+HBOFAMILY,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+HBOHD,https://edge1.laotv.la/live/HBO/index.m3u8
+HBOHD,https://s.vdo.ai/vhs/1.m3u8
+HBOHITS,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+HBOHITS,https://z88.ubtvfans.com/live/rx4/2991/273a7fe8625fa0c90e023c22b85b0121/index.m3u8
+HBOHITS,https://z88.ubtvfans.com/live/rx4/2976/10dcfde882f32a6b1410e15a816a03d5/index.m3u8
+HBOHITS,https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+HBOMUNDI,http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
+HBOMUNDI,https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
+HBOMUNDI,http://170.254.18.106/HBO_MUNDI/index.m3u8
+HBOPLUS,http://170.254.18.106/HBO_PLUS/index.m3u8
+HBOSIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
+HBOSIGNATURE,https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/hbosighd_qp.m3u8
+HBOXTREME,http://170.254.18.106/HBO_XTREME/index.m3u8
+HBOXTREME SD,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 河北影视,http://116.162.6.192/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13006/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226365/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/index.m3u8
@@ -419,7 +425,6 @@ Spotlight 电影,https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-
 The Movie Club 印度,https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 tvN Movies 韩国,http://210.210.155.37/dr9445/h/h21/index.m3u8
 唐山影视,http://116.162.6.192/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13112/index.m3u8
-淘电影,http://114.246.102.14:4000/rtp/239.3.1.250:8001
 星光电影台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 WU TANG 功夫电影,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=42
 壹电影,https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
