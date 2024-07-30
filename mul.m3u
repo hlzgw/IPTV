@@ -228,6 +228,11 @@ VIUTVSIX,https://fake-stream.livednow.com/mdvb/viutv6?token=29d5aee9aebad63b5141
 翡翠台,http://113.83.152.56:8182/bynumber/1
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+翡翠台,http://cdn.1678520.xyz/xsj2.php?id=feicui
+翡翠台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-3
+翡翠台,http://cdn.1678520.xyz/xsj2.php?id=golden-jade
+翡翠台,https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 凤凰卫视电影台,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
 凤凰卫视电影台,http://106.8.126.232:4022/rtp/239.254.201.1:5214
 凤凰卫视电影台,http://111.227.173.232:4022/rtp/239.254.201.1:5214
@@ -364,12 +369,22 @@ VIUTVSIX,https://fake-stream.livednow.com/mdvb/viutv6?token=29d5aee9aebad63b5141
 
 数字高清,#genre#
 CHC高清电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
-CHC高清电影,https://z88.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
+CHC高清电影,http://119.98.233.15:5555/rtp/239.69.1.241:11088
 CHC高清电影,http://116.162.6.192/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC高清电影,http://tv6.blcu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/a51d115379-0-0-2d3f80b098bcb9a30d9368695375926f/index.m3u8
+CHC高清电影,http://171.116.113.18:8002/rtp/226.0.2.93:8004
+CHC高清电影,http://58.223.166.16/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
 CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
-CHC家庭影院,https://z88.ubtvfans.com/live/rx1/1347/a0d16273ab1b09b7a6b6c2f70ae82533/index.m3u8
+CHC家庭影院,http://tv6.blcu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/452c80009b-0-0-e2338fa7fa61d532e85364bf7f77a71e/index.m3u8
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC家庭影院,http://183.185.205.1:8083/rtp/226.0.2.240:9820
+CHC家庭影院,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC家庭影院,http://58.223.166.16/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-CHC动作电影,https://z88.ubtvfans.com/live/rx1/1346/f578d5f871a5d248d63ca725752055aa/index.m3u8
+CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
+CHC动作电影,http://tv6.blcu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/59799779bf-0-0-46589e4cd4a185d126f36ac81a80255f/index.m3u8
+CHC动作电影,http://1b6467f415.iok.la:9931/tsfile/live/1047_1.m3u8
+CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
 Love Nature,http://143.244.60.30/LOVE_NATURE/index.m3u8
 Love ThePlanet,https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
