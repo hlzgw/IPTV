@@ -218,28 +218,24 @@ VIUTVSIX,https://fake-stream.livednow.com/mdvb/viutv6?token=29d5aee9aebad63b5141
 东森电影台,https://z02.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
 东森电影台,https://epg.pw/stream/05c7791a4d1db7ba680c3134464550eadb3c82b5fc870c210f38366804382de7.m3u8
 东森戏剧台,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台, http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台, https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台, http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 翡翠台, https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
-翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台, https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 翡翠台, https://test.zapi.us.kg/?id=golden-jade
-翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台, https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
 翡翠台, https://pi.0472.org/tv/fct.php?auth=230918
 翡翠台, http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠台, http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 翡翠台, http://23.26.147.19:1258/proxy/Smartv.php?id=jade_twn
-翡翠台, http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台, http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 翡翠台, http://113.83.152.56:8182/bynumber/1
-翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台, http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 翡翠台, http://cdn9.1678520.xyz/xsj2.1.php?id=feicui
-翡翠台, https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
 翡翠台, http://metatvpro.xyz:25461/W1045/4329/12205
-翡翠台, https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
 翡翠台, http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null
 翡翠台, https://tvb.mytvsuper.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 翡翠台, http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
@@ -274,6 +270,7 @@ VIUTVSIX,https://fake-stream.livednow.com/mdvb/viutv6?token=29d5aee9aebad63b5141
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://113.64.145.126:8081/hls/36/index.m3u8
 凤凰资讯,https://histar.zapi.us.kg/?id=phtv-info
+好莱坞电影, https://pull.kktv8.com/livekktv/128600025.flv
 好莱坞电影, https://test.zapi.us.kg/?id=hollywood-movie
 好莱坞电影, http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 好莱坞电影, http://23.26.147.19:1258/proxy/Smartv.php?id=hollywoodmovies_twn
