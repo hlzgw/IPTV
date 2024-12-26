@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="A01" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="总台高清",tvb1
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-id="A02" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="总台高清",tvb1
+#EXTINF:-1 tvg-id="A02" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="总台高清",tvb2
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 http://119.32.12.32:2901/udp/224.1.100.121:11111
