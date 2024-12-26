@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="14692" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14692" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://115.192.72.111:4022/udp/233.50.200.143:5140
-#EXTINF:-1 tvg-id="14633" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14633" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://115.192.72.111:4022/udp/233.50.200.130:5140
-#EXTINF:-1 tvg-id="14390" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14390" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://113.56.95.223:8889/udp/228.0.0.1:6108
-#EXTINF:-1 tvg-id="14491" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14491" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://f63454.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
-#EXTINF:-1 tvg-id="13201" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="13201" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-id="12981" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="12981" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3&checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="12877" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="12877" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://bl.dchwtq.asia:10000/rtp/239.69.1.249:11136
-#EXTINF:-1 tvg-id="12875" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="12875" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566
-#EXTINF:-1 tvg-id="12873" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="12873" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548
-#EXTINF:-1 tvg-id="12870" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="12870" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280
-#EXTINF:-1 tvg-id="12869" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="12869" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://bl.dchwtq.asia:10000/rtp/239.69.1.106:10274
-#EXTINF:-1 tvg-id="12321" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="12321" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://117.161.133.51:81/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
-#EXTINF:-1 tvg-id="14513" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14513" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://f63454.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
-#EXTINF:-1 tvg-id="14441" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14441" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://171.110.42.193:8181/tsfile/live/faacts/0013_1.m3u8
-#EXTINF:-1 tvg-id="14433" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14433" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://119.166.10.79:9999/udp/239.253.254.77:8000
-#EXTINF:-1 tvg-id="14356" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14356" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="14344" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14344" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="14338" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="14338" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="9793" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="9793" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://120.76.248.139/live/bfgd/4200000488.m3u8
-#EXTINF:-1 tvg-id="12087" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="12087" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-id="14676" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="央视",CCTV10
 http://113.111.18.60:8889/udp/239.77.1.169:5146
